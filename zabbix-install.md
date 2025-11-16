@@ -26,6 +26,7 @@ apt install mysql-server
 ```
 mysql_secure_installation
 ```
+
 a. Faire Y ou Yes
 ```
 Securing the MySQL server deployment.
@@ -39,6 +40,7 @@ secure enough. Would you like to setup VALIDATE PASSWORD component?
 
 Press y|Y for Yes, any other key for No: Y
 ```
+
 b. Faire 2 pour choisir un mot de passe complexe
 ```
 There are three levels of password validation policy:
@@ -49,6 +51,7 @@ STRONG Length >= 8, numeric, mixed case, special characters and dictionary
 
 Please enter 0 = LOW, 1 = MEDIUM and 2 = STRONG: 2
 ```
+
 c. Répondre y sur les deux questions
 ```
 Skipping password set for root as authentication with auth_socket is used by default.
@@ -70,6 +73,7 @@ the root password from the network.
 
 Disallow root login remotely? (Press y|Y for Yes, any other key for No) : y
 ```
+
 d. Faire y
 ```
 Reloading the privilege tables will ensure that all changes
@@ -77,6 +81,7 @@ made so far will take effect immediately.
 
 Reload privilege tables now? (Press y|Y for Yes, any other key for No) : y
 ```
+
 6. Création de la base de données (pensez à changer le mot de passe !)
 ```
 mysql -uroot -p
@@ -89,20 +94,24 @@ mysql> FLUSH PRIVILEGES;
 mysql> set global log_bin_trust_function_creators = 1;
 mysql> quit; 
 ```
+
 7. Import du schéma de la base de données
 ```
 zcat /usr/share/zabbix/sql-scripts/mysql/server.sql.gz | mysql --default-character-set=utf8mb4 -uzabbix -p zabbix
 ```
+
 8. Désactivation du log_bin_trust_function_creators
 ```
 mysql -uroot -p
 mysql> set global log_bin_trust_function_creators = 0;
 mysql> quit;
 ```
+
 9. Modifier le fichier Zabbix /etc/zabbix/zabbix_server.conf
 ```
 DBPassword=InsérerMotDePasse123!
 ```
+
 10. Redémarrage des services Apache + activation au démarrage de la machine
 ```
 systemctl restart zabbix-server zabbix-agent apache2
