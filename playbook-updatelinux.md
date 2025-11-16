@@ -1,4 +1,4 @@
-# Linux - Playbook de Mise à jour de l'OS
+# Linux - Playbook de mise à jour de l'OS
 
 ```
 ---
