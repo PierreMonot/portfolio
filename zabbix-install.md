@@ -1,5 +1,5 @@
 [Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
-# Zabbix - Installation
+# Zabbix 7.4 - Installation basique
 1. Se mettre en root
 ```
 sudo su
