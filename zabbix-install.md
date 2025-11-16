@@ -1,1 +1,2 @@
-##Zabbix - Installation de base##
+[Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
+# Zabbix - Installation
