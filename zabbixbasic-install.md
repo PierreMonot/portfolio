@@ -124,36 +124,22 @@ http://IP_du_Serveur/zabbix
 ```
 
 12. Choisir la langue et Faire Next step
-```
-Insérer setup
-```
+![image](https://pierremonot.github.io/portfolio/zabbixbasic-setup.png)
 
 13. Vérifier que tous les pré-requis sont "ok" et valider
-```
-Insérer prérequis
-```
+![image](https://pierremonot.github.io/portfolio/zabbixbasic-prerequis.png)
 
-14. Insérer le mot de passe de la base de données et faire "Next Step"
-```
-Insérer bdd
-```
+15. Insérer le mot de passe de la base de données et faire "Next Step"
+![image](https://pierremonot.github.io/portfolio/zabbixbasic-db.png)
 
 15. Insérez le nom de la VM, définir le fuseau horaire et le thème par défaut
-```
-Insérer vm
-```
+![image](https://pierremonot.github.io/portfolio/zabbixbasic-vm.png)
 
 16. Valider le récapitulatif
-```
-Insérer vm
-```
+![image](https://pierremonot.github.io/portfolio/zabbixbasic-recap.png)
 
 17. Installation Terminée
-```
-Insérer finish
-```
+![image](https://pierremonot.github.io/portfolio/zabbixbasic-finish.png)
 
 18. Se connecter avec les identifiants par défaut (Admin/zabbix)
-```
-Insérer logon
-```
+![image](https://pierremonot.github.io/portfolio/zabbixbasic-logon.png)
