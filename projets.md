@@ -3,7 +3,7 @@
 - Supervision Zabbix - En cours de rédaction
 
 # Zabbix
-- Installation
+- [Installation](/zabbix-install.md)
 - Templates
 - Triggers
 - Alertes
