@@ -1,8 +1,8 @@
 [Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
 # Zabbix
 - [Installation de base (Apache2/MySQL) - Zabbix Server](/zabbixbasic-install.md)
-- [Installation de base - Zabbix Agent (Linux)](/zabbixbasic-installagentlinux.md)
-- [Installation de base - Zabbix Agent (Windows)](/zabbixbasic-installagentwin.md)
+- [Installation de base - Zabbix Agent (Linux)](/zabbix-installagentlinux.md)
+- [Installation de base - Zabbix Agent (Windows)](/zabbix-installagentwin.md)
 - Templates
 - Triggers
 - Alertes
