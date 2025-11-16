@@ -1,5 +1,5 @@
 [Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
-# Zabbix 7.4 - Installation basique
+# Zabbix 7.4 - Installation basique (Apache2/MySQL)
 1. Se mettre en root
 ```
 sudo su
