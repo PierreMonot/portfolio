@@ -3,7 +3,7 @@
 - [Installation de base (Apache2/MySQL) - Zabbix Server](/zabbixbasic-install.md)
 - [Installation de base - Zabbix Agent (Linux)](/zabbix-installagentlinux.md)
 - [Installation de base - Zabbix Agent (Windows)](/zabbix-installagentwin.md)
-- [Ajout Hôte - Zabbix Server)](/zabbix-addhost.md)
+- [Ajout Hôte - Zabbix Server](/zabbix-addhost.md)
 - Templates
 - Triggers
 - Alertes
