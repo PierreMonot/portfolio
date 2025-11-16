@@ -117,3 +117,43 @@ DBPassword=InsérerMotDePasse123!
 systemctl restart zabbix-server zabbix-agent apache2
 systemctl enable zabbix-server zabbix-agent apache2 
 ```
+
+11. Se connecter à l'URL du serveur avec un navigateur Web :
+```
+http://IP_du_Serveur/zabbix
+```
+
+12. Choisir la langue et Faire Next step
+```
+Insérer setup
+```
+
+13. Vérifier que tous les pré-requis sont "ok" et valider
+```
+Insérer prérequis
+```
+
+14. Insérer le mot de passe de la base de données et faire "Next Step"
+```
+Insérer bdd
+```
+
+15. Insérez le nom de la VM, définir le fuseau horaire et le thème par défaut
+```
+Insérer vm
+```
+
+16. Valider le récapitulatif
+```
+Insérer vm
+```
+
+17. Installation Terminée
+```
+Insérer finish
+```
+
+18. Se connecter avec les identifiants par défaut (Admin/zabbix)
+```
+Insérer logon
+```
