@@ -2,43 +2,54 @@
 # Compétences
 Voici les savoir‑faire que j’ai développés au fil de mes expériences :
 
-# Systèmes
-## Virtualisation : 
+# Virtualisation & Systèmes 
 - **VMWare ESXI/VCenter**
 - **Proxmox**
 - **Hyper-V**
+- **Linux** : Ubuntu Server, Debian, CentOS (préparation LPIC-2)
+- **Windows Server** : 2008 à 2025 – AD, GPO, RDS, DNS, DHCP, clustering
+
+# Réseaux
+## Firewall
+- **Watchguard**
+- **Sophos**
+- **Fortinet**v
+## Switching
+- **Cisco**
+- **HP**
+- **Aruba**
+## Wi-Fi
+- **Cisco**
+- **Ubiquiti**
+- **Aruba**
 
 ## Cloud : 
 - **Office 365** : Portail Administrateur, Entra...
 
-## Systèmes D'Exploitation :
-- **Linux** : Ubuntu Server, Debian, CentOS (préparation LPIC-2)
-- **Windows Server** : 2008 à 2025 – AD, GPO, RDS, DNS, DHCP, clustering
-
-## Sauvegardes
+## Sauvegardes & Résilience
 - **Veeam Backup**
 - **Robocopy**
 - **Iperius Backup**
+- **Proxmox Backup Server**
 
 ## Supervision : 
 - **Zabbix**
 - **Nagios**
 
-# Réseaux
-## Switching
-- **Cisco**
-- **HP**
-- **Aruba**
+## Lab personnel & projets techniques (autodidacte)
+- **Proxmox**
+- **Ubuntu Server**
+- **Docker**
+- **Gitlab CI**
+- **Zabbix**
+- **Ansible**
+- **Terraform**
+- **Documentation sur Gitub Pages**
 
-## Firewall
-- **Watchguard**
-- **Sophos**
-- **Fortinet**
-
-## Wi-Fi
-- **Cisco**
-- **Ubiquiti**
-- **Aruba**
+## Outils complémentaires
+- **GLPI/OCS Inventory**
+- **iTop**
+- **Nicoka**
 
 # Autre
 ## Téléphonie : 
