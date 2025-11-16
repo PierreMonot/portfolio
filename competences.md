@@ -13,7 +13,7 @@ Voici les savoir‑faire que j’ai développés au fil de mes expériences :
 ## Firewall
 - **Watchguard**
 - **Sophos**
-- **Fortinet**v
+- **Fortinet**
 ## Switching
 - **Cisco**
 - **HP**
