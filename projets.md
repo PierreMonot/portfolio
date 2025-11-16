@@ -26,7 +26,7 @@
 - Cluster
 - Test de PRA
 
-# Terraform+Cloud
+# Terraform/Cloud
 - Déploiement d'infra cloud
 - Module Terraform
 
