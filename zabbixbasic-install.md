@@ -1,7 +1,7 @@
 [Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
 # Zabbix 7.4 - Installation basique (Apache2/MySQL)
 
-Pré-requis : 
+## Pré-requis : 
 - OS : Linux (Ubuntu Server 24.04 ici)
 - Stockage : dépend de l'usage (pour un mois de conservation des données dans notre exemple)
 
@@ -19,6 +19,8 @@ Pour une grande infrastructure (> 100 000 métriques) :
 - CPU : 16
 - RAM : 64+ Go
 - Stockage : SSD 1To
+
+## Installation
 
 1. Se mettre en root
 ```
