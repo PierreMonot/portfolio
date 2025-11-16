@@ -143,3 +143,6 @@ http://IP_du_Serveur/zabbix
 
 18. Se connecter avec les identifiants par défaut (Admin/zabbix)
 ![image](https://pierremonot.github.io/portfolio/zabbixbasic-logon.png)
+
+19. Zabbix installé !
+![image](https://pierremonot.github.io/portfolio/zabbixbasic-dash.png)
