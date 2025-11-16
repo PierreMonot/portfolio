@@ -1,6 +1,6 @@
 [Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
 # Zabbix
-- [Installation de base (Apache2/MySQL)](/zabbix-install.md)
+- [Installation de base (Apache2/MySQL)](/zabbixbasic-install.md)
 - Templates
 - Triggers
 - Alertes
