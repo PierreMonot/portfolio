@@ -3,21 +3,22 @@
 
 Pré-requis : 
 - OS : Linux (Ubuntu Server 24.04 ici)
+- Stockage : dépend de l'usage (pour un mois de conservation des données dans notre exemple)
 
 Pour installation/tests : 
-- CPU : 2 CPU
+- CPU : 2
 - RAM : 2-4 Go
-- Stockage : SSD 50 Go
+- Stockage : SSD 50 Go 
 
 Pour un environnement de moyenne taille (1000 métriques) :
 - CPU : 4
 - RAM : 8-16Go 
-- Stockage : SSD 200 Go minimum (pour un mois de conservation des métriques) 
+- Stockage : SSD 200 Go minimum
 
 Pour une grande infrastructure (> 100 000 métriques) : 
-CPU : 16
-RAM : 64+ Go
-Stockage : SSD 1To (pour un mois de conservation des métriques)
+- CPU : 16
+- RAM : 64+ Go
+- Stockage : SSD 1To
 
 1. Se mettre en root
 ```
