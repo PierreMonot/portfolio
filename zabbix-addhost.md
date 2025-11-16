@@ -1,13 +1,13 @@
 [Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
 # Ajout d'un hôte dans Zabbix Server
 
-1. Se connecter à l'interface Web de Zabbix
+1. Se connecter à l'interface Web de Zabbix  
 ![image](https://pierremonot.github.io/portfolio/zabbixbasic-dash.png)
 
-2. Sur la gauche, aller dans "Data Collection" -> "Hosts"
+2. Sur la gauche, aller dans "Data Collection" -> "Hosts"  
 ![image](https://pierremonot.github.io/portfolio/zabbix-datacollection.png)
 
-3. En haut à droite, cliquer sur "Create Host"
+3. En haut à droite, cliquer sur "Create Host"  
 ![image](https://pierremonot.github.io/portfolio/zabbix-createhost.png)
 
 4. Dans la page qui s'ouvre renseigner les différents paramètres
