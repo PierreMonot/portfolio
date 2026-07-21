@@ -4,8 +4,8 @@
 - ZCS (Zabbix Certified Specialist) - 05/2026
 - ZCP (Zabbix Certified Professionnal) - 06/2026
 
-## En cours - 2025
+## En cours - 2026
 - ZCE (Zabbix Certified Expert) -> Cours suivi, examen à venir
 
-## A venir - 2026
+## A venir - 2026-2027
 - Proxmox (Pas de certification officielle mais maîtrise avancée)
