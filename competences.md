@@ -14,10 +14,12 @@ Voici les savoir‑faire que j’ai développés au fil de mes expériences :
 - **Watchguard**
 - **Sophos**
 - **Fortinet**
+- **Ubiquiti**
 ## Switching
 - **Cisco**
 - **HP**
 - **Aruba**
+- **Ubiquiti**
 ## Wi-Fi
 - **Cisco**
 - **Ubiquiti**
@@ -33,18 +35,18 @@ Voici les savoir‑faire que j’ai développés au fil de mes expériences :
 - **Proxmox Backup Server**
 
 ## Supervision : 
-- **Zabbix**
-- **Nagios**
+- **Zabbix** - ZCS/ZCP obtenus, ZCE à venir
+- **Nagios/Centreon**
 
 ## Lab personnel & projets techniques (autodidacte)
 - **Proxmox**
 - **Ubuntu Server**
 - **Docker**
-- **Gitlab CI**
+- **Gitea**
 - **Zabbix**
 - **Ansible**
 - **Terraform**
-- **Documentation sur Gitub Pages**
+- **Documentation sur MKDocs & Github Pages**
 
 ## Outils complémentaires
 - **GLPI/OCS Inventory**
