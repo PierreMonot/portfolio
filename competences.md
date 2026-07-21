@@ -1,60 +1,109 @@
 [Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
 # Compétences
+
 Voici les savoir‑faire que j’ai développés au fil de mes expériences :
 
-# Virtualisation & Systèmes 
-- **VMWare ESXI/VCenter**
-- **Proxmox**
-- **Hyper-V**
-- **Linux** : Ubuntu Server, Debian, CentOS (préparation LPIC-2)
-- **Windows Server** : 2008 à 2025 – AD, GPO, RDS, DNS, DHCP, clustering
+---
+
+# Virtualisation & Systèmes
+
+- **VMware ESXi/vCenter** : cluster, vMotion, VSAN (notions)
+- **Proxmox VE** : cluster, Proxmox Backup Server, Proxmox Datacenter Manager
+- **Hyper‑V** : cluster + migrations depuis VMware
+- **Linux** : Debian, Ubuntu (maîtrise) ; CentOS/RHEL (bases)
+- **Windows Server** : 2008 à 2025 – AD, GPO, DNS, DHCP, RDS, clustering
+
+---
 
 # Réseaux
+
 ## Firewall
 - **Watchguard**
 - **Sophos**
 - **Fortinet**
 - **Ubiquiti**
+
 ## Switching
 - **Cisco**
 - **HP**
 - **Aruba**
 - **Ubiquiti**
-## Wi-Fi
+
+## Wi‑Fi
 - **Cisco**
 - **Ubiquiti**
 - **Aruba**
 
-## Cloud : 
-- **Office 365** : Portail Administrateur, Entra...
+---
 
-## Sauvegardes & Résilience
-- **Veeam Backup**
-- **Robocopy**
-- **Iperius Backup**
+# Cloud
+
+- **Office 365** : Portail Administrateur, Entra ID (Azure AD)
+
+---
+
+# Sauvegardes & Résilience
+
+- **Veeam Backup & Replication**
 - **Proxmox Backup Server**
+- **Iperius Backup**
+- **Robocopy**
+- **PRA / PCA**
 
-## Supervision : 
-- **Zabbix** - ZCS/ZCP obtenus, ZCE à venir
-- **Nagios/Centreon**
+---
 
-## Lab personnel & projets techniques (autodidacte)
+# Supervision & Observabilité
+
+- **Zabbix** — ZCS/ZCP obtenus, ZCE en préparation  
+  - LLD avancée  
+  - Preprocessing  
+  - Templates avancés  
+  - Agent 2  
+  - SNMP  
+  - Proxies  
+  - Haute disponibilité (HA)  
+  - Optimisation & tuning performance
+- **Nagios / Centreon**
+- **Grafana / Loki / Prometheus (notions)**
+
+---
+
+# Lab personnel & projets techniques (autodidacte)
+
 - **Proxmox**
 - **Ubuntu Server**
-- **Docker**
+- **Docker** (bases)
 - **Gitea**
 - **Zabbix**
-- **Ansible**
-- **Terraform**
-- **Documentation sur MKDocs & Github Pages**
+- **Ansible** (bases solides)
+- **GitLab CI** (bases)
+- **Terraform** (notions)
+- **Kubernetes / OpenShift** (notions)
+- **Documentation** : MKDocs & GitHub Pages
 
-## Outils complémentaires
-- **GLPI/OCS Inventory**
+---
+
+# Automatisation & DevOps
+
+- **Ansible** : bases (rôles, playbooks, premières automatisations)
+- **GitLab CI** : pipelines simples, runners Docker
+- **Docker** : bases
+- **Terraform** : notions
+- **Kubernetes / OpenShift** : notions
+- **Scripting** : Bash & PowerShell (notions)
+
+---
+
+# Outils complémentaires
+
+- **GLPI / OCS Inventory**
 - **iTop**
 - **Nicoka**
 
-# Autre
-## Téléphonie : 
+---
+
+# Téléphonie
+
 - **Teams**
 - **3CX**
 - **Mitel**
