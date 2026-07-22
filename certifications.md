@@ -1,5 +1,5 @@
 [Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
-# Obtenue
+# Obtenues
 - AZ-900 (Azure Fundamentals) - 11/2025
 - ZCS (Zabbix Certified Specialist) - 05/2026
 - ZCP (Zabbix Certified Professionnal) - 06/2026
