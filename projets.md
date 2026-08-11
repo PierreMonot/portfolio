@@ -5,15 +5,14 @@
 - [Installation de base - Zabbix Agent (Windows)](/zabbix-installagentwin.md)
 - [Ajout Hôte - Zabbix Server](/zabbix-addhost.md)
 - Templates
+- LLD
+- Preprocessing
 - Triggers
 - Alertes
 - Dashboard
-- Intégration Ansible
+- Déploiement avec Ansible
 
-# CI/CD
-- Installation Gitlab
-
-# Ansible 
+# Ansible
 - Playbooks
 - Rôles
 - Inventaire
@@ -25,6 +24,7 @@
 - Backup
 - Cluster
 - Test de PRA
+- Monitoring via Zabbix & Prometheus
 
 # Terraform/Cloud
 - Déploiement d'infra cloud
