@@ -15,7 +15,6 @@ Apprentissage avancé via homelab, documentation officielle, cours en ligne et l
 
 ### Cloud Privé & Virtualisation
 - Ceph Storage — RBD, CephFS, CRUSH
-- OpenStack — Compute, Storage, Networking
 
 ### Observabilité
 - Prometheus - Métriques, Alerting
