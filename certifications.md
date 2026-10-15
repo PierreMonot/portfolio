@@ -8,10 +8,10 @@
 - ZCE (Zabbix Certified Expert) -> Cours suivi, examen prévu
 
 ## A venir - 2026-2027
-- Proxmox (Pas de certification officielle mais maîtrise avancée)
+- Proxmox (Formation Officielle à venir)
 
 ## Formations autodidactes - 2026-2027
-Apprentissage avancé via homelab, documentation officielle, cours en ligne et labs techniques.
+Apprentissage via homelab, documentation officielle, cours en ligne et labs techniques.
 
 ### Cloud Privé & Virtualisation
 - Ceph Storage — RBD, CephFS, CRUSH
