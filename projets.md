@@ -1,7 +1,7 @@
 [Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
 # Refonte en cours
 
-
+Dans notre contexte, nous allons utiliser le nom d'une entreprise 
 
 # Zabbix
 - Installation - Zabbix avancée (Type production) (Apache2/PostgreSQL + TimescaleDB) 
