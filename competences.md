@@ -1,109 +1,62 @@
-[Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
+[Accueil](index.md) · [Certifications](certifications.md) · [Compétences](competences.md) · [Projets](projets.md) · [Scripts](scripts.md)
+ 
 # Compétences
+ 
+## Virtualisation
+ 
+- **VMware vSphere** : ESXi, vCenter, cluster, vMotion ; vSAN (notions)
+- **Proxmox VE** : cluster, haute disponibilité, Proxmox Backup Server, Proxmox Datacenter Manager
+- **Hyper-V** : cluster, migration depuis VMware
 
-Voici les savoir‑faire que j’ai développés au fil de mes expériences :
+## Supervision et observabilité
+ 
+- **Zabbix** : certifié ZCS et ZCP, ZCE en préparation
+  - LLD avancée, preprocessing, templates avancés
+  - Agent 2, SNMP, proxies
+  - Haute disponibilité, optimisation et tuning des performances
+- **Nagios, Centreon**
+- **Grafana, Loki, Prometheus** (notions)
 
----
+## Stockage
+ 
+- **Ceph** (en lab) : pools, CRUSH map, gestion des pannes
+- **iSCSI** : baies de disques, NAS, bases du multipath
+- **SMB 3**
 
-# Virtualisation & Systèmes
-
-- **VMware ESXi/vCenter** : cluster, vMotion, VSAN (notions)
-- **Proxmox VE** : cluster, Proxmox Backup Server, Proxmox Datacenter Manager
-- **Hyper‑V** : cluster + migrations depuis VMware
-- **Linux** : Debian, Ubuntu (maîtrise) ; CentOS/RHEL (bases)
-- **Windows Server** : 2008 à 2025 – AD, GPO, DNS, DHCP, RDS, clustering
-
----
-
-# Réseaux
-
-## Firewall
-- **Watchguard**
-- **Sophos**
-- **Fortinet**
-- **Ubiquiti**
-
-## Switching
-- **Cisco**
-- **HP**
-- **Aruba**
-- **Ubiquiti**
-
-## Wi‑Fi
-- **Cisco**
-- **Ubiquiti**
-- **Aruba**
-
----
-
-# Cloud
-
-- **Office 365** : Portail Administrateur, Entra ID (Azure AD)
-
----
-
-# Sauvegardes & Résilience
-
+## Sauvegarde et reprise d'activité
+ 
 - **Veeam Backup & Replication**
 - **Proxmox Backup Server**
 - **Iperius Backup**
-- **Robocopy**
-- **PRA / PCA**
+- **PRA** : scénarios de reprise, mesure du RTO et du RPO
 
----
+## Systèmes
+ 
+- **Linux** : Debian, Ubuntu ; CentOS, RHEL (bases)
+- **Windows Server** (2008 à 2025) : Active Directory, GPO, DNS, DHCP, RDS, clustering
 
-# Supervision & Observabilité
+## Réseaux
+ 
+- **Pare-feu** : WatchGuard, Sophos, Fortinet, Ubiquiti
+- **Switching** : Cisco, HP, Aruba, Ubiquiti
+- **Wi-Fi** : Cisco, Aruba, Ubiquiti
 
-- **Zabbix** — ZCS/ZCP obtenus, ZCE en préparation  
-  - LLD avancée  
-  - Preprocessing  
-  - Templates avancés  
-  - Agent 2  
-  - SNMP  
-  - Proxies  
-  - Haute disponibilité (HA)  
-  - Optimisation & tuning performance
-- **Nagios / Centreon**
-- **Grafana / Loki / Prometheus (notions)**
-
----
-
-# Lab personnel & projets techniques (autodidacte)
-
-- **Proxmox**
-- **Ubuntu Server**
+## Automatisation et DevOps
+ 
+- **Ansible** (bases) : playbooks, rôles
 - **Docker** (bases)
+- **GitLab CI** (bases) : pipelines simples, runners Docker
 - **Gitea**
-- **Zabbix**
-- **Ansible** (bases solides)
-- **GitLab CI** (bases)
 - **Terraform** (notions)
-- **Kubernetes / OpenShift** (notions)
-- **Documentation** : MKDocs & GitHub Pages
+- **Kubernetes** (notions)
+- **Scripting** : Bash, PowerShell (notions)
 
----
+## Cloud
+ 
+- **Microsoft 365** : centre d'administration, Entra ID, SharePoint
 
-# Automatisation & DevOps
-
-- **Ansible** : bases (rôles, playbooks, premières automatisations)
-- **GitLab CI** : pipelines simples, runners Docker
-- **Docker** : bases
-- **Terraform** : notions
-- **Kubernetes / OpenShift** : notions
-- **Scripting** : Bash & PowerShell (notions)
-
----
-
-# Outils complémentaires
-
-- **GLPI / OCS Inventory**
-- **iTop**
-- **Nicoka**
-
----
-
-# Téléphonie
-
-- **Teams**
-- **3CX**
-- **Mitel**
+## Outils
+ 
+- **Inventaire et ITSM** : GLPI, OCS Inventory, iTop, Nicoka
+- **Documentation** : MkDocs, GitHub Pages
+- **Téléphonie** : Teams, 3CX, Mitel
