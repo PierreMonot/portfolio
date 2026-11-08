@@ -15,5 +15,5 @@
 ## Prévues en 2027
  
 - **Proxmox VE** — Deployment and Management/Clustering and Shared Storage - Bundle Officiel
-- **VCP-VVF Administrator** — formation officielle VMware vSphere Foundation
+- **VCP-VVF Administrator** — formation officielle VMware vSphere Foundation + examen
  

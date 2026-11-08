@@ -3,7 +3,7 @@
 # Projets
  
 Mes labs documentés : contexte, architecture, étapes, problèmes rencontrés et solutions appliquées. 
-Nous utiliserons un nom d'entreprise fictif dans les exemples.
+J'utiliserai un nom d'entreprise fictif dans les exemples.
  
 ## Zabbix
  
