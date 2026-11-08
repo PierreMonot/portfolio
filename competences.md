@@ -28,7 +28,7 @@
 - **Veeam Backup & Replication**
 - **Proxmox Backup Server**
 - **Iperius Backup**
-- **PRA** : scénarios de reprise, mesure du RTO et du RPO
+- **PRA/PCA** : scénarios de reprise
 
 ## Systèmes
  

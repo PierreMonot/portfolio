@@ -1,40 +1,23 @@
-[Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
-# Refonte en cours
+[Accueil](index.md) · [Certifications](certifications.md) · [Compétences](competences.md) · [Projets](projets.md) · [Scripts](scripts.md)
 
-Dans notre contexte, nous allons utiliser le nom d'une entreprise 
+# Projets
+ 
+Mes labs documentés : contexte, architecture, étapes, problèmes rencontrés et solutions appliquées. 
+Nous utiliserons un nom d'entreprise fictif dans les exemples.
+ 
+## Zabbix
+ 
+- [Installation simple de Zabbix (Apache2, MySQL)](zabbixbasic-install.md)
+- [Installation de l'agent Zabbix sous Linux](zabbix-installagentlinux.md)
+- [Installation de l'agent Zabbix sous Windows](zabbix-installagentwin.md)
 
-# Zabbix
-- Installation - Zabbix avancée (Type production) (Apache2/PostgreSQL + TimescaleDB) 
-- [Installation - Zabbix simple (Apache2/MySQL)](/zabbixbasic-install.md)
-- [Installation de base - Zabbix Agent (Linux)](/zabbix-installagentlinux.md)
-- [Installation de base - Zabbix Agent (Windows)](/zabbix-installagentwin.md) 
-- Administration - Ajout d’hôte actif/passif + explication
-- Administration - Monitoring Proxmox
-- Administration - Monitoring Hyper-V
-- Administration - Monitoring VMWare
-- Déploiement avec Ansible
-
-# Proxmox
-- Installation - Proxmox Virtual Environment (Simple) 
-- Configuration - Proxmox Virtual Environment (Simple)
-- Configuration - Réseau
-- Homelab
-
-# Ceph
-- Prérequis Ceph
-- Théorie Ceph (OSD, MON, MGR, CRUSH, PG...)
-- Déploiement Ceph - Proxmox
-
-# Hyper-V
-- Installation du rôle Hyper-V
-- Créer un cluster de basculement (PRA/PCA)
-- Utiliser un stockage distribué (SMB) avec un NAS pour stockage des VMs (et HA)
-- Migration Hyper-V -> Proxmox 
-
-# VMWare
-- Migration VMWare -> Proxmox 
-
-# Homelab
-- Mon matériel et ma philosophie d'architecture
-- Evolution du homelab
-- Ce que le homelab m'a appris  
+## Prochainement
+ 
+- Mon homelab : matériel et choix d'architecture
+- Installation de Zabbix 8.0 en configuration de production (Apache2, PostgreSQL, TimescaleDB)
+- Migration VMware → Proxmox
+- Migration Hyper-V → Proxmox
+- Ceph sous Proxmox : architecture et gestion des pannes
+- Cluster Proxmox : haute disponibilité et tests de bascule
+- PRA/PCA : scénario complet
+- Réseau Proxmox : bonding, VLAN, SDN
