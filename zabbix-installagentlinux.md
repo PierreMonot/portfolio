@@ -1,4 +1,4 @@
-[Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
+[Accueil](index.md) · [Certifications](certifications.md) · [Compétences](competences.md) · [Projets](projets.md) · [Scripts](scripts.md)
 # Zabbix 7.4 - Installation Agent (Linux)
 
 1. Se mettre en root

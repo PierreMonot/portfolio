@@ -1,4 +1,4 @@
-[Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
+[Accueil](index.md) · [Certifications](certifications.md) · [Compétences](competences.md) · [Projets](projets.md) · [Scripts](scripts.md)
 # Ajout d'un hôte dans Zabbix Server
 
 1. Se connecter à l'interface Web de Zabbix  
