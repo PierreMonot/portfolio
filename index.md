@@ -1,5 +1,6 @@
 [Accueil](index.md) · [Certifications](certifications.md) · [Compétences](competences.md) · [Projets](projets.md) · [Scripts](scripts.md)
  
+# Accueil
 Je travaille dans l'IT depuis 2017, et je suis actuellement responsable systèmes et réseaux dans une collectivité territoriale. Au quotidien, j'administre les serveurs, le stockage et le réseau, avec pour objectif le meilleur niveau de performance et une disponibilité optimale.
  
 Au fil des années, je me suis spécialisé dans deux domaines : la **virtualisation** (VMware vSphere, Proxmox VE) et la **supervision/observabilité** (Zabbix).
