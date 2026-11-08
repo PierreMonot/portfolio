@@ -12,6 +12,7 @@
 2. Met à niveau les paquets
 3. Supprime les paquets devenus inutiles
 4. Redémarre le serveur seulement si une mise à jour l'exige
+
 ## Le playbook
  
 {% raw %}
@@ -81,10 +82,4 @@ Lancer la mise à jour :
  
 ```bash
 ansible-playbook -i inventaire.ini maj-linux.yml
-```
- 
-Lancer une seule étape grâce aux tags, par exemple la mise à niveau sans redémarrage :
- 
-```bash
-ansible-playbook -i inventaire.ini maj-linux.yml --tags update-cache,upgrade
 ```
