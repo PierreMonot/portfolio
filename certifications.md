@@ -1,29 +1,17 @@
 [Accueil](/index.md) | [Certifications](/certifications.md) | [Compétences](/competences.md) | [Projets](/projets.md) | [Scripts](/scripts.md)
-# Obtenues
-- AZ-900 (Azure Fundamentals) - 11/2025
-- ZCS (Zabbix Certified Specialist) - 05/2026
-- ZCP (Zabbix Certified Professionnal) - 06/2026
-
-## En cours - 2026
-- ZCE (Zabbix Certified Expert) -> Cours suivi, examen prévu
-
-## A venir - 2026-2027
-- Proxmox (Formation Officielle à venir)
-
-## Formations autodidactes - 2026-2027
-Apprentissage via homelab, documentation officielle, cours en ligne et labs techniques.
-
-### Cloud Privé & Virtualisation
-- Ceph Storage — RBD, CephFS, CRUSH
-
-### Observabilité
-- Prometheus - Métriques, Alerting
-- Grafana - Dashboards
-
-### Automatisation & SRE
-- Ansible — rôles, collections, automatisation
-- Terraform — IaC, modules, providers
-- GitLab CI / Docker — pipelines CI/CD
-
-### Cloud Native
-- Kubernetes — administration opérationnelle (kubeadm)
+ 
+# Certifications
+ 
+## Obtenues
+ 
+- **ZCP** — Zabbix Certified Professional · 06/2026
+- **ZCS** — Zabbix Certified Specialist · 05/2026
+- **AZ-900** — Microsoft Azure Fundamentals · 11/2025
+## En cours
+ 
+- **ZCE** — Zabbix Certified Expert · formation suivie, examen prévu en décembre 2026
+## Prévues en 2027
+ 
+- **Proxmox VE** — formation officielle Proxmox
+- **VCP-VVF Administrator** — formation officielle VMware vSphere Foundation, puis examen
+ 
