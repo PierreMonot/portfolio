@@ -21,5 +21,5 @@ Chaque lab y est documenté : contexte, architecture, étapes, problèmes rencon
  
 ## Me contacter
  
-- LinkedIn : [mon profil](https://www.linkedin.com/in/pierre-monot-680167146/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5MpUXrM8STC9v4TYTLucRQ%3D%3D)
+- LinkedIn : [mon profil](https://www.linkedin.com/in/pierre-monot-680167146/)
 - GitHub : [PierreMonot](https://github.com/PierreMonot)
