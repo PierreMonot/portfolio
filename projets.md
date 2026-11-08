@@ -10,6 +10,7 @@ J'utiliserai un nom d'entreprise fictif dans les exemples.
 - [Installation simple de Zabbix (Apache2, MySQL)](zabbixbasic-install.md)
 - [Installation de l'agent Zabbix sous Linux](zabbix-installagentlinux.md)
 - [Installation de l'agent Zabbix sous Windows](zabbix-installagentwin.md)
+- [Ajout d'un hôte sur le Zabbix Server](zabbix-addhost.md)
 
 ## Prochainement
  

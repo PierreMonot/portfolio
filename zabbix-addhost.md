@@ -13,7 +13,7 @@
 4. Dans la page qui s'ouvre renseigner les différents paramètres
 - Host name : le nom d'hôte de votre machine distante
 - Visible name : (si vous voulez qu'elle apparaisse sous un autre nom dans votre interface)
-- Template : Vous pouvez mettre le template qui s'approche le plus à votre machine/équipements réseau (ici nous utiliserons Linux by Zabbix agent mais vous pouvez utiliser aussi Windows by Zabbux agent)
+- Template : Vous pouvez mettre le template qui s'approche le plus à votre machine/équipements réseau (ici nous utiliserons Linux by Zabbix agent mais vous pouvez utiliser aussi Windows by Zabbix agent) si c'est un agent passif !
 - Host groups : Pour créer un groupe dédié (Production - Linux Server par exemple) à la machine ou l'ajouter à un existant
 - Interfaces : Choisir Agent si c'est un agent ou SNMP si c'est un équipement réseau ou NAS par exemple
 - IP Adress : Celle de votre machine distante
