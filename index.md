@@ -9,13 +9,13 @@ Au fil des années, je me suis spécialisé dans deux domaines : la virtualisati
  
 - **Virtualisation** : VMware vSphere, Proxmox VE, Hyper-V. Clusters, haute disponibilité, migrations entre hyperviseurs.
 - **Stockage** : Ceph, iSCSI, NFS, SMB 3.
-- **Sauvegarde et PRA** : Proxmox Backup Server, scénarios de PRA/PCA.
+- **Sauvegarde et résilience** : Proxmox Backup Server, scénarios de PRA/PCA.
 - **Supervision et observabilité** : Zabbix, de l'installation au dépannage ([certifié ZCS et ZCP](/certifications.md), ZCE en préparation).
 - **Systèmes** : Linux, Windows Server, Active Directory.
 
-## Mon Homelab
+## Mon homelab
  
-Pour faire des tests sans risque pour la production, j'ai acheté et mis en place un homelab sous Proxmox VE : un mini PC sur lequel tourne différents services, notamment un cluster Proxmox VE, un ESXi ou encore un cluster Hyper-V pour effectuer des tests de migrations, ainsi que Zabbix typé production ainsi que des sauvegardes PBS quotidiennes.
+Pour faire des tests sans risques pour la production, j'ai acheté et mis en place un homelab sous Proxmox VE : un mini PC sur lequel tournent différents services, notamment un cluster Proxmox VE, un ESXi ou encore un cluster Hyper-V pour effectuer des tests de migrations. J'ai également un Zabbix (type production) ainsi que des sauvegardes PBS quotidiennes.
  
 Chaque lab y est documenté : contexte, architecture, étapes, problèmes rencontrés et les solutions appliquées. Vous les trouverez dans [Projets](/projets.md).
  
